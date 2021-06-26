@@ -1,0 +1,38 @@
+.bg-orange{
+    background-color: #FFF9F4;
+}
+.main-image{
+    width: 100%;
+}
+.orange-heading{
+    color: #FA804C;
+}
+.blue-heading{
+    color: #363958;
+}
+.font{
+    font-family: 'Bebas Neue', cursive;
+}
+.heading{
+    font-size: 70px;
+}
+.price-color{
+    color: #FA804C;
+}
+.card-section{
+    padding-bottom: 50px;
+}
+.icons{
+    width: 78px;
+}
+.facilities{
+    margin: 5px;
+}
+.shadow-card{
+    border: none;
+    box-shadow: 5px 10px 18px #888888;
+}
+.facilities-shadow-card{
+    border-radius: 10px;
+    box-shadow: 5px 10px 5px #888888;
+}
